@@ -1880,3 +1880,22 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.company-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+}
+
+.company-name {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+}
+
+.tech-stack {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+}
